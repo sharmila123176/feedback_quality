@@ -2,6 +2,17 @@
 
 ## Task-3
 
+COMPANY NAME : COURSEVITA
+
+NAME : PULAMARASETTI SHARMILA
+
+DOMAIN : TECH
+
+DURATION : 3MONTHS
+
+TRAINER NAME : RAKESH
+
+## Goal
 The goal is to check whether the feedback given to someone (like a student or employee) is clear, specific, helpful, and actionable — so the person can understand and improve.
 
 ### Specific Objectives of the Task:
